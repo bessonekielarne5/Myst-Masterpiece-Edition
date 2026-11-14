@@ -201,4 +201,4 @@ This repository serves as the official landing page for Myst: Masterpiece Editio
 **Get the most recent version of Myst: Masterpiece Edition today!**
 
 ---
-**Last updated:** 2026-11-13 18:16:26 UTC
+**Last updated:** 2026-11-14 00:01:53 UTC
